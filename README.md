@@ -10,4 +10,4 @@ Helping the user by telling how he/she return the change to the customer with mi
 - HTML5
 - CSS3
 - JavaScript
-Check out the live project - "[Live]()"
+Check out the live project - "[Live](https://thehritikpathare.github.io/CASH-MANAGER/)"
